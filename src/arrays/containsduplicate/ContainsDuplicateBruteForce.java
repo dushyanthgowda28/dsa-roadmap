@@ -39,5 +39,5 @@ public class ContainsDuplicateBruteForce {
  * Average Case: O(n^2)
  *
  * Space Complexity:
- * O(1) -> no extra data structure used (only variables i, j)
+ * O(1) -> no extra data structure used (only variables i, j, len)
  */
