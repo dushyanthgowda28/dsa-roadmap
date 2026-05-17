@@ -27,7 +27,7 @@ public class ContainsDuplicateBruteForce {
             System.out.println("Array contains unique elements");
         }
         else {
-            System.out.println("Duplicate element is " +result);
+            System.out.println("Duplicate element is " + result);
         }
     }
 }
