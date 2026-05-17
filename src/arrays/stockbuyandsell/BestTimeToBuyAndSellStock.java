@@ -33,3 +33,8 @@ public class BestTimeToBuyAndSellStock {
         System.out.println("Maximum profit is " + getMaximumProfit(arr));
     }
 }
+
+//Time Complexity
+//O(n) → single traversal
+//Space Complexity
+//O(1) → no extra space used
