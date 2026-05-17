@@ -11,7 +11,7 @@ public class ContainsDuplicateBruteForce {
         int result = -1;
 
         for (int i = 0; i < len; i++) {
-            for (int j = i+1; j < len; j++) {
+            for (int j = i + 1; j < len; j++) {
                 if (arr[i] == arr[j]) {
                     result = arr[i];
                 }
