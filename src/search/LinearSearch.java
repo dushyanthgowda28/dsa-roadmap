@@ -22,7 +22,7 @@ public class LinearSearch {
         if (result == -1) {
             System.out.println("Target element is not present in the array");
         } else {
-            System.out.println("Target element is present at index " +result);
+            System.out.println("Target element is present at index " + result);
         }
     }
 }
