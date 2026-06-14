@@ -13,12 +13,12 @@ public class LinearSearch {
 
     public static void main(String[] args) {
         int[] arr = new int[] {5, 47, 55, 3, 99, 12, 74};
-        int target = 74;
+        int target = 55;
         int result = linearSearch(arr, target);
         if (result == -1) {
             System.out.println("Target element is not present in the array");
         } else {
-            System.out.println("Target element is present in index " +result);
+            System.out.println("Target element is present t index " +result);
         }
     }
 }
