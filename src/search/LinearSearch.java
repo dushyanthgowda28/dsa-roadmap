@@ -3,6 +3,9 @@ package search;
 public class LinearSearch {
 
     static int linearSearch(int[] arr, int target) {
+        if (arr == null || arr.length == 0) {
+            throw new IllegalArgumentException("Invalid array input");
+        }
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == target) {
                 return i;
