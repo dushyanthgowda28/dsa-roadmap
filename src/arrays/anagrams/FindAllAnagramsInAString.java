@@ -18,7 +18,7 @@ public class FindAllAnagramsInAString {
         int[] pFreq = new int[256];
         int[] windowFreq = new int[256];
 
-        // Build frequency map for pattern
+        // Build frequency map for patterns
         for (char ch : p.toCharArray()) {
             pFreq[ch]++;
         }
