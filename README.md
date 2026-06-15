@@ -10,7 +10,7 @@
 
 # Arrays & Strings (20)
 
-* [ ] Two Sum
+* [X] Two Sum
 * [ ] Best Time to Buy and Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
