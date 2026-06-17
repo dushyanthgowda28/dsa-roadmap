@@ -21,7 +21,7 @@ jobs:
 
       - run: pip install matplotlib
 
-      - run: python progress.py
+      - run: python src/progress.py
 
       - name: Commit Chart
         run: |
