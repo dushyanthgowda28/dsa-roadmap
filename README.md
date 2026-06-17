@@ -3,8 +3,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **4**
-* Remaining: **124**
+* Solved: **5**
+* Remaining: **123**
 
 ---
 
@@ -24,7 +24,7 @@
 * [ ] Move Zeroes
 * [ ] Rotate Array
 * [ ] Majority Element
-* [ ] Valid Anagram
+* [X] Valid Anagram
 * [ ] Group Anagrams
 * [ ] Longest Common Prefix
 * [ ] Valid Palindrome
