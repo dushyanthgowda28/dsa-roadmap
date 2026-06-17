@@ -3,8 +3,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **5**
-* Remaining: **123**
+* Solved: **6**
+* Remaining: **122**
 
 ---
 
@@ -38,7 +38,7 @@
 
 # Binary Search (10)
 
-* [ ] Binary Search
+* [X] Binary Search
 * [ ] Search Insert Position
 * [ ] First Bad Version
 * [ ] Search in Rotated Sorted Array
