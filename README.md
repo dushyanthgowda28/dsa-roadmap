@@ -3,8 +3,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **0**
-* Remaining: **128**
+* Solved: **1**
+* Remaining: **127**
 
 ---
 
@@ -15,7 +15,7 @@
 
 # Arrays & Strings (20)
 
-* [ ] Two Sum
+* [X] Two Sum
 * [ ] Best Time to Buy and Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
