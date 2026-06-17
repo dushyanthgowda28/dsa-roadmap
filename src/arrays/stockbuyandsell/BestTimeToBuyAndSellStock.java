@@ -8,19 +8,12 @@ public class BestTimeToBuyAndSellStock {
             throw new IllegalArgumentException("Invalid array");
         }
 
-        int buyPrice = arr[0];
+        int minPrice = arr[0];
         int maxProfit = 0;
 
         for (int i = 1; i < arr.length; i++) {
-
-            // Calculate profit for current day
-            int currentProfit = arr[i] - buyPrice;
-
-            // Update maximum profit
-            maxProfit = Math.max(maxProfit, currentProfit);
-
-            // Update minimum buying price
-            buyPrice = Math.min(buyPrice, arr[i]);
+            minPrice = Math.min(minPrice, arr[i]);
+            maxProfit = Math.max(maxProfit, arr[i] - minPrice);
         }
 
         return maxProfit;
