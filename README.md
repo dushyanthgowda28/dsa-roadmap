@@ -8,9 +8,14 @@
 
 ---
 
+## Progress Chart
+
+![DSA Progress](progress.png)
+
+
 # Arrays & Strings (20)
 
-* [X] Two Sum
+* [ ] Two Sum
 * [ ] Best Time to Buy and Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
