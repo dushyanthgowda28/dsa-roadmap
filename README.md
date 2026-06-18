@@ -3,8 +3,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **9**
-* Remaining: **119**
+* Solved: **11**
+* Remaining: **117**
 
 ---
 
@@ -51,8 +51,8 @@
 
 # HashMap / HashSet (10)
 
-* [ ] Two Sum
-* [ ] Contains Duplicate
+* [X] Two Sum
+* [X] Contains Duplicate
 * [ ] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
