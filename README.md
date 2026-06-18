@@ -1,10 +1,12 @@
+# 🕉️ Sri Yoganarasimha Swamy Prasanna 🦁
+
 # 🚀 DSA Interview Preparation Tracker
 
 ## Progress
 
 * Total Questions: **128**
-* Solved: **11**
-* Remaining: **117**
+* Solved: **12**
+* Remaining: **116**
 
 ---
 
@@ -21,7 +23,7 @@
 * [X] Product of Array Except Self
 * [X] Maximum Subarray
 * [X] Merge Sorted Array
-* [ ] Move Zeroes
+* [X] Move Zeroes
 * [ ] Rotate Array
 * [ ] Majority Element
 * [X] Valid Anagram
