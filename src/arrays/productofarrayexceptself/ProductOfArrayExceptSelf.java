@@ -22,8 +22,8 @@ public class ProductOfArrayExceptSelf {
         int suffixProduct = 1;
 
         for (int i = n - 1; i >= 0; i--) {
-            result[i] *= suffixProduct;
-            suffixProduct *= arr[i];
+            result[i] = result[i] * suffixProduct;
+            suffixProduct = suffixProduct * arr[i];
         }
 
         return result;
