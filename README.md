@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **13**
-* Remaining: **115**
+* Solved: **14**
+* Remaining: **114**
 
 ---
 
@@ -25,7 +25,7 @@
 * [X] Merge Sorted Array
 * [X] Move Zeroes
 * [X] Rotate Array
-* [ ] Majority Element
+* [X] Majority Element
 * [X] Valid Anagram
 * [ ] Group Anagrams
 * [ ] Longest Common Prefix
