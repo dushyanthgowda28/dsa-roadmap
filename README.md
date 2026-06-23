@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **16**
-* Remaining: **112**
+* Solved: **18**
+* Remaining: **110**
 
 ---
 
@@ -68,9 +68,9 @@
 
 * [ ] Valid Palindrome
 * [ ] Two Sum II
-* [ ] Move Zeroes
+* [X] Move Zeroes
 * [ ] Remove Duplicates
-* [ ] Container With Most Water
+* [X] Container With Most Water
 * [ ] 3Sum
 * [ ] Sort Colors
 * [ ] Squares of Sorted Array
