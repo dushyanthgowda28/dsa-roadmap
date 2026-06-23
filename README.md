@@ -5,7 +5,7 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **14**
+* Solved: **15**
 * Remaining: **114**
 
 ---
@@ -27,7 +27,7 @@
 * [X] Rotate Array
 * [X] Majority Element
 * [X] Valid Anagram
-* [ ] Group Anagrams
+* [X] Group Anagrams
 * [ ] Longest Common Prefix
 * [ ] Valid Palindrome
 * [X] Reverse String
