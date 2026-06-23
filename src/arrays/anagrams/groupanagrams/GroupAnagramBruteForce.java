@@ -57,3 +57,8 @@ public class GroupAnagramBruteForce {
         System.out.println(result);
     }
 }
+
+//
+//Time Complexity: O(n² × k log k)
+//
+//Space Complexity: O(n + k)

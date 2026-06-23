@@ -30,3 +30,6 @@ public class GroupAnagramsOptimal {
         System.out.println(result);
     }
 }
+
+//Time: O(n * k log k)
+//Space: O(n * k)
