@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **18**
-* Remaining: **110**
+* Solved: **19**
+* Remaining: **109**
 
 ---
 
@@ -36,7 +36,7 @@
 * [ ] Longest Palindromic Substring
 * [ ] 3Sum
 * [X] Container With Most Water
-* [ ] Trapping Rain Water
+* [X] Trapping Rain Water
 
 # Binary Search (10)
 
