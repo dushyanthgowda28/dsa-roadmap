@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **20**
-* Remaining: **108**
+* Solved: **21**
+* Remaining: **107**
 
 ---
 
@@ -29,7 +29,7 @@
 * [X] Valid Anagram
 * [X] Group Anagrams
 * [X] Longest Common Prefix
-* [ ] Valid Palindrome
+* [X] Valid Palindrome
 * [X] Reverse String
 * [ ] Reverse Words in String
 * [ ] Longest Substring Without Repeating Characters
