@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **19**
-* Remaining: **109**
+* Solved: *20**
+* Remaining: **108**
 
 ---
 
@@ -28,7 +28,7 @@
 * [X] Majority Element
 * [X] Valid Anagram
 * [X] Group Anagrams
-* [ ] Longest Common Prefix
+* [X] Longest Common Prefix
 * [ ] Valid Palindrome
 * [X] Reverse String
 * [ ] Reverse Words in String
