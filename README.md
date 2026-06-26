@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **21**
-* Remaining: **107**
+* Solved: **23**
+* Remaining: **105**
 
 ---
 
@@ -31,9 +31,9 @@
 * [X] Longest Common Prefix
 * [X] Valid Palindrome
 * [X] Reverse String
-* [ ] Reverse Words in String
+* [X] Reverse Words in String
 * [ ] Longest Substring Without Repeating Characters
-* [ ] Longest Palindromic Substring
+* [X] Longest Palindromic Substring
 * [ ] 3Sum
 * [X] Container With Most Water
 * [X] Trapping Rain Water
