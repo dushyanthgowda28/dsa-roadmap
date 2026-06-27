@@ -8,19 +8,19 @@
 
 * [x] Two Sum
 
-    * [X] Revision 1
+    * [x] Revision 1
     * [ ] Revision 2
     * [ ] Revision 3
 
 * [x] Best Time to Buy and Sell Stock
 
-    * [X] Revision 1
+    * [x] Revision 1
     * [ ] Revision 2
     * [ ] Revision 3
 
 * [x] Contains Duplicate
 
-    * [ ] Revision 1
+    * [x] Revision 1
     * [ ] Revision 2
     * [ ] Revision 3
 

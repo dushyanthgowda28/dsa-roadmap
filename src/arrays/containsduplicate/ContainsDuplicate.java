@@ -24,12 +24,11 @@ public class ContainsDuplicate {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[] {1, 4, 5, 7, 8, 5};
+        int[] arr = new int[]{1, 4, 5, 7, 8, 5};
         int result = duplicate(arr);
         if (result == -1) {
             System.out.println("Array contains unique elements");
-        }
-        else {
+        } else {
             System.out.println("Duplicate element is " + result);
         }
     }
