@@ -22,7 +22,7 @@ public class TwoSumBruteforce {
     }
 
     public static void main(String[] args) {
-        int[] nums = {2, 7, 11, 15};
+        int[] nums = new int[]{2, 7, 11, 15};
         int target = 26;
 
         int[] result = twoSum(nums, target);
