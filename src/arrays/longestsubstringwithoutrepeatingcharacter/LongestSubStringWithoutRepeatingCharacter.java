@@ -39,3 +39,6 @@ public class LongestSubStringWithoutRepeatingCharacter {
         System.out.println(longestSubstring(str));
     }
 }
+//
+//Time Complexity: O(n)
+//Space Complexity: O(min(n, charset))
