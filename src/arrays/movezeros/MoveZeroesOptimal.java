@@ -12,7 +12,6 @@ public class MoveZeroesOptimal {
                 int temp = nums[i];
                 nums[i] = nums[j];
                 nums[j] = temp;
-
                 j++;
             }
         }
