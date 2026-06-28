@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **23**
-* Remaining: **105**
+* Solved: **30**
+* Remaining: **98**
 
 ---
 
@@ -32,9 +32,9 @@
 * [X] Valid Palindrome
 * [X] Reverse String
 * [X] Reverse Words in String
-* [ ] Longest Substring Without Repeating Characters
+* [X] Longest Substring Without Repeating Characters
 * [X] Longest Palindromic Substring
-* [ ] 3Sum
+* [X] 3Sum
 * [X] Container With Most Water
 * [X] Trapping Rain Water
 
@@ -55,7 +55,7 @@
 
 * [X] Two Sum
 * [X] Contains Duplicate
-* [ ] Valid Anagram
+* [X] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
 * [ ] Subarray Sum Equals K
@@ -66,18 +66,18 @@
 
 # Two Pointers (8)
 
-* [ ] Valid Palindrome
-* [ ] Two Sum II
+* [X] Valid Palindrome
+* [X] Two Sum II
 * [X] Move Zeroes
 * [ ] Remove Duplicates
 * [X] Container With Most Water
-* [ ] 3Sum
+* [X] 3Sum
 * [ ] Sort Colors
 * [ ] Squares of Sorted Array
 
 # Sliding Window (10)
 
-* [ ] Longest Substring Without Repeating Characters
+* [X] Longest Substring Without Repeating Characters
 * [ ] Find All Anagrams in a String
 * [ ] Minimum Window Substring
 * [ ] Permutation In String
