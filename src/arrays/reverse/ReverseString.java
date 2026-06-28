@@ -7,21 +7,22 @@ public class ReverseString {
             return str;
         }
 
-        int right = 0;
-        int left = str.length()-1;
+        int left = 0;
+        int right = str.length() - 1;
         char[] chars = str.toCharArray();
-        while(right < left) {
-            char temp = chars[right];
-            chars[right] = chars[left];
-            chars[left] = temp;
-            right++;
-            left--;
+        while (left < right) {
+            char temp = chars[left];
+            chars[left] = chars[right];
+            chars[right] = temp;
+            right--;
+            left++;
         }
         return new String(chars);
     }
+
     public static void main(String[] args) {
         String str = "hello";
-        System.out.println("Reverse String is " +reverseString(str));
+        System.out.println("Reverse String is " + reverseString(str));
     }
 }
 
