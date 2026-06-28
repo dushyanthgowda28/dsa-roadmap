@@ -30,8 +30,8 @@ public class MergeSortedArrayBruteForce {
 
     public static void main(String[] args) {
 
-        int[] nums1 = {1, 2, 3};
-        int[] nums2 = {2, 5, 6};
+        int[] nums1 = {1, 3, 5, 7};
+        int[] nums2 = {2, 4, 6, 8};
 
         int[] result = mergeSortedArrayBruteForce(nums1, nums2);
 
