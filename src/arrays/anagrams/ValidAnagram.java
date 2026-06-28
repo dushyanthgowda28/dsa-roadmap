@@ -16,7 +16,7 @@ public class ValidAnagram {
             array[two.charAt(i)]--;
         }
 
-        for(int a : array) {
+        for (int a : array) {
             if (a != 0) {
                 return false;
             }
