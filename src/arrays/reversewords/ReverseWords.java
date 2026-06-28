@@ -28,7 +28,7 @@ public class ReverseWords {
             }
 
             // Add space before every word except the first
-            if (result.length() > 0) {
+            if (!result.isEmpty()) {
                 result.append(" ");
             }
 
