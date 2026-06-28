@@ -21,8 +21,8 @@ public class ReverseString {
     }
 
     public static void main(String[] args) {
-        String str = "hello";
-        System.out.println("Reverse String is " + reverseString(str));
+        String str = "hello how are you";
+        System.out.println("Reverse String is - " + reverseString(str));
     }
 }
 
