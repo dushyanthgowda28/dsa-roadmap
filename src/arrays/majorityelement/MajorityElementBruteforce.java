@@ -32,7 +32,7 @@ public class MajorityElementBruteforce {
 
     public static void main(String[] args) {
 
-        int[] arr = {2, 2, 1, 1, 1, 2, 2};
+        int[] arr = {2, 2, 1, 1, 1, 2, 2, 6, 7, 2, 8, 9, 4, 3, 2, 2, 2, 2, 2, 2};
 
         int result = majorityElementBruteForce(arr);
 
