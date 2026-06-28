@@ -18,8 +18,6 @@ public class ProductOfArrayExceptSelfBruteForce {
             }
             productArray[i] = product;
         }
-
-
         return productArray;
     }
 
