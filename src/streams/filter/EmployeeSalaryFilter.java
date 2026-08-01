@@ -98,7 +98,8 @@ class EmployeeData {
                 new Employee(107, "Arjun", 48000, "Finance"),
                 new Employee(108, "Pooja", 65000, "IT"),
                 new Employee(109, "Karan", 70000, "Sales"),
-                new Employee(110, "Anjali", 40000, "Marketing")
+                new Employee(110, "Anjali", 40000, "Marketing"),
+                new Employee(101, "Kavya", 95000, "IT")
         );
     }
 }

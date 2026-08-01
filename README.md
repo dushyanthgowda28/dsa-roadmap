@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **30**
-* Remaining: **98**
+* Solved: **0**
+* Remaining: **128**
 
 ---
 
@@ -17,30 +17,30 @@
 
 # Arrays & Strings (20)
 
-* [X] Two Sum
-* [X] Best Time to Buy and Sell Stock
-* [X] Contains Duplicate
-* [X] Product of Array Except Self
-* [X] Maximum Subarray
-* [X] Merge Sorted Array
-* [X] Move Zeroes
-* [X] Rotate Array
-* [X] Majority Element
-* [X] Valid Anagram
-* [X] Group Anagrams
-* [X] Longest Common Prefix
-* [X] Valid Palindrome
-* [X] Reverse String
-* [X] Reverse Words in String
-* [X] Longest Substring Without Repeating Characters
-* [X] Longest Palindromic Substring
-* [X] 3Sum
-* [X] Container With Most Water
-* [X] Trapping Rain Water
+* [ ] Two Sum
+* [ ] Best Time to Buy and Sell Stock
+* [ ] Contains Duplicate
+* [ ] Product of Array Except Self
+* [ ] Maximum Subarray
+* [ ] Merge Sorted Array
+* [ ] Move Zeroes
+* [ ] Rotate Array
+* [ ] Majority Element
+* [ ] Valid Anagram
+* [ ] Group Anagrams
+* [ ] Longest Common Prefix
+* [ ] Valid Palindrome
+* [ ] Reverse String
+* [ ] Reverse Words in String
+* [ ] Longest Substring Without Repeating Characters
+* [ ] Longest Palindromic Substring
+* [ ] 3Sum
+* [ ] Container With Most Water
+* [ ] Trapping Rain Water
 
 # Binary Search (10)
 
-* [X] Binary Search
+* [ ] Binary Search
 * [ ] Search Insert Position
 * [ ] First Bad Version
 * [ ] Search in Rotated Sorted Array
@@ -53,9 +53,9 @@
 
 # HashMap / HashSet (10)
 
-* [X] Two Sum
-* [X] Contains Duplicate
-* [X] Valid Anagram
+* [ ] Two Sum
+* [ ] Contains Duplicate
+* [ ] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
 * [ ] Subarray Sum Equals K
@@ -66,18 +66,18 @@
 
 # Two Pointers (8)
 
-* [X] Valid Palindrome
-* [X] Two Sum II
-* [X] Move Zeroes
+* [ ] Valid Palindrome
+* [ ] Two Sum II
+* [ ] Move Zeroes
 * [ ] Remove Duplicates
-* [X] Container With Most Water
-* [X] 3Sum
+* [ ] Container With Most Water
+* [ ] 3Sum
 * [ ] Sort Colors
 * [ ] Squares of Sorted Array
 
 # Sliding Window (10)
 
-* [X] Longest Substring Without Repeating Characters
+* [ ] Longest Substring Without Repeating Characters
 * [ ] Find All Anagrams in a String
 * [ ] Minimum Window Substring
 * [ ] Permutation In String
