@@ -4,7 +4,7 @@ public class BestTimeToBuyAndSellStockBruteForce {
 
     public static int getMaximumProfit(int[] arr) {
         if (arr == null || arr.length < 2) {
-            throw new IllegalArgumentException("Invalid array");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         int len = arr.length;

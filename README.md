@@ -18,7 +18,7 @@
 # Arrays & Strings (20)
 
 * [X] Two Sum
-* [ ] Best Time to Buy and Sell Stock
+* [X] Best Time to Buy and Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
 * [ ] Maximum Subarray
@@ -30,7 +30,7 @@
 * [ ] Group Anagrams
 * [ ] Longest Common Prefix
 * [ ] Valid Palindrome
-* [ ] Reverse String
+* [X] Reverse String
 * [ ] Reverse Words in String
 * [ ] Longest Substring Without Repeating Characters
 * [ ] Longest Palindromic Substring
