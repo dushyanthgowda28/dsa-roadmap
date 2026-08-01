@@ -6,7 +6,7 @@ public class TwoSumBruteforce {
 
     static int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length < 2) {
-            throw new IllegalArgumentException("Invalid array");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         int len = nums.length;
@@ -23,7 +23,7 @@ public class TwoSumBruteforce {
 
     public static void main(String[] args) {
         int[] nums = new int[]{2, 7, 11, 15};
-        int target = 26;
+        int target = 9;
 
         int[] result = twoSum(nums, target);
 

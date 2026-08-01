@@ -7,7 +7,7 @@ public class TwoSum {
 
     static int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length < 2) {
-            throw new IllegalArgumentException("Invalid array");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         HashMap<Integer, Integer> hashMap = new HashMap<>();
