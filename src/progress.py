@@ -11,7 +11,9 @@ plt.figure(figsize=(6,6))
 plt.pie(
     [completed, remaining],
     labels=["Solved", "Remaining"],
-    autopct="%1.1f%%"
+    colors=["green", "red"],   # Green for solved, Red for remaining
+    autopct="%1.1f%%",
+    startangle=90              # Optional: starts chart from the top
 )
 
 plt.title("DSA Progress")
