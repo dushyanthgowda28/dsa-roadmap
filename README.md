@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **4**
-* Remaining: **124**
+* Solved: **7**
+* Remaining: **121**
 
 ---
 
@@ -40,7 +40,7 @@
 
 # Binary Search (10)
 
-* [ ] Binary Search
+* [X] Binary Search
 * [ ] Search Insert Position
 * [ ] First Bad Version
 * [ ] Search in Rotated Sorted Array
@@ -53,9 +53,9 @@
 
 # HashMap / HashSet (10)
 
-* [ ] Two Sum
+* [X] Two Sum
 * [ ] Contains Duplicate
-* [ ] Valid Anagram
+* [X] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
 * [ ] Subarray Sum Equals K
