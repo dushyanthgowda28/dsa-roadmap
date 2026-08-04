@@ -6,7 +6,7 @@
 
 * Total Questions: **128**
 * Solved: **7**
-* Remaining: **121**
+* Remaining: **120**
 
 ---
 
@@ -19,7 +19,7 @@
 
 * [X] Two Sum
 * [X] Best Time to Buy and Sell Stock
-* [ ] Contains Duplicate
+* [X] Contains Duplicate
 * [ ] Product of Array Except Self
 * [ ] Maximum Subarray
 * [ ] Merge Sorted Array

@@ -4,7 +4,7 @@ public class ContainsDuplicateBruteForce {
 
     public static int duplicateElement(int[] arr) {
         if (arr == null || arr.length < 2) {
-            throw new IllegalArgumentException("Invalid array");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         int len = arr.length;
