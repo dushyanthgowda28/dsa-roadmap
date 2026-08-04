@@ -5,7 +5,7 @@ public class ProductOfArrayExceptSelf {
     static int[] productExceptSelf(int[] arr) {
 
         if (arr == null || arr.length == 0) {
-            throw new IllegalArgumentException("Invalid array");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         int n = arr.length;

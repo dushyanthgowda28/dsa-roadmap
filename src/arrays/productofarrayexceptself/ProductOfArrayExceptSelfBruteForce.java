@@ -1,10 +1,13 @@
 package arrays.productofarrayexceptself;
 
+import java.util.Arrays;
+import java.util.stream.Stream;
+
 public class ProductOfArrayExceptSelfBruteForce {
 
     static int[] productOfArrayExceptSelfBruteForce(int[] arr) {
         if (arr == null || arr.length == 0) {
-            throw new IllegalArgumentException("Invalid array");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         int[] productArray = new int[arr.length];
