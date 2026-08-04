@@ -6,7 +6,7 @@
 
 * Total Questions: **128**
 * Solved: **4**
-* Remaining: **125**
+* Remaining: **124**
 
 ---
 
