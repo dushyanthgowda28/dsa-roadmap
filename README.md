@@ -5,7 +5,7 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **0**
+* Solved: **2**
 * Remaining: **128**
 
 ---
@@ -17,7 +17,7 @@
 
 # Arrays & Strings (20)
 
-* [ ] Two Sum
+* [X] Two Sum
 * [ ] Best Time to Buy and Sell Stock
 * [ ] Contains Duplicate
 * [ ] Product of Array Except Self
@@ -53,7 +53,7 @@
 
 # HashMap / HashSet (10)
 
-* [ ] Two Sum
+* [X] Two Sum
 * [ ] Contains Duplicate
 * [ ] Valid Anagram
 * [ ] Longest Consecutive Sequence
