@@ -26,7 +26,7 @@
 * [ ] Move Zeroes
 * [ ] Rotate Array
 * [ ] Majority Element
-* [ ] Valid Anagram
+* [X] Valid Anagram
 * [ ] Group Anagrams
 * [ ] Longest Common Prefix
 * [ ] Valid Palindrome
@@ -55,7 +55,7 @@
 
 * [X] Two Sum
 * [X] Contains Duplicate
-* [ ] Valid Anagram
+* [X] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
 * [ ] Subarray Sum Equals K
