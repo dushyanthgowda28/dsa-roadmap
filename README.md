@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **3**
-* Remaining: **125**
+* Solved: **5**
+* Remaining: **123**
 
 ---
 
@@ -19,7 +19,7 @@
 
 * [X] Two Sum
 * [X] Best Time to Buy and Sell Stock
-* [ ] Contains Duplicate
+* [X] Contains Duplicate
 * [ ] Product of Array Except Self
 * [ ] Maximum Subarray
 * [ ] Merge Sorted Array
@@ -54,7 +54,7 @@
 # HashMap / HashSet (10)
 
 * [X] Two Sum
-* [ ] Contains Duplicate
+* [X] Contains Duplicate
 * [ ] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
