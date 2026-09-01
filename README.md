@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **9**
-* Remaining: **119**
+* Solved: **0**
+* Remaining: **128**
 
 ---
 
@@ -17,20 +17,20 @@
 
 # Arrays & Strings (20)
 
-* [X] Two Sum
-* [X] Best Time to Buy and Sell Stock
-* [X] Contains Duplicate
-* [X] Product of Array Except Self
+* [ ] Two Sum
+* [ ] Best Time to Buy and Sell Stock
+* [ ] Contains Duplicate
+* [ ] Product of Array Except Self
 * [ ] Maximum Subarray
 * [ ] Merge Sorted Array
 * [ ] Move Zeroes
 * [ ] Rotate Array
 * [ ] Majority Element
-* [X] Valid Anagram
+* [ ] Valid Anagram
 * [ ] Group Anagrams
 * [ ] Longest Common Prefix
 * [ ] Valid Palindrome
-* [X] Reverse String
+* [ ] Reverse String
 * [ ] Reverse Words in String
 * [ ] Longest Substring Without Repeating Characters
 * [ ] Longest Palindromic Substring
@@ -40,7 +40,7 @@
 
 # Binary Search (10)
 
-* [X] Binary Search
+* [ ] Binary Search
 * [ ] Search Insert Position
 * [ ] First Bad Version
 * [ ] Search in Rotated Sorted Array
@@ -53,9 +53,9 @@
 
 # HashMap / HashSet (10)
 
-* [X] Two Sum
+* [ ] Two Sum
 * [ ] Contains Duplicate
-* [X] Valid Anagram
+* [ ] Valid Anagram
 * [ ] Longest Consecutive Sequence
 * [ ] Top K Frequent Elements
 * [ ] Subarray Sum Equals K

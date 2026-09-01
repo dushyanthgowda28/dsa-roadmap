@@ -11,7 +11,7 @@ public class ProductOfArrayExceptSelf {
         int n = arr.length;
         int[] result = new int[n];
 
-        // Step 1: Store prefix products in result
+        // Step 1: Store prefix products in result.
         result[0] = 1;
 
         for (int i = 1; i < n; i++) {
