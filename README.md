@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **5**
-* Remaining: **123**
+* Solved: **7**
+* Remaining: **121**
 
 ---
 
