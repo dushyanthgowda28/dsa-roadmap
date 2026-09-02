@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **10**
-* Remaining: **118**
+* Solved: **11**
+* Remaining: **117**
 
 ---
 
@@ -24,7 +24,7 @@
 * [ ] Maximum Subarray
 * [ ] Merge Sorted Array
 * [X] Move Zeroes
-* [ ] Rotate Array
+* [X] Rotate Array
 * [ ] Majority Element
 * [X] Valid Anagram
 * [ ] Group Anagrams

@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class RotateArrayKTimesAntiClockwise {
 
     static void rotateAntiClockwise(int[] arr, int k) {
-        if (arr == null || arr.length < k) {
+        if (arr == null || arr.length <= 1) {
             throw new IllegalArgumentException("Invalid array");
         }
 
