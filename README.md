@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **8**
-* Remaining: **120**
+* Solved: **10**
+* Remaining: **118**
 
 ---
 
@@ -23,7 +23,7 @@
 * [ ] Product of Array Except Self
 * [ ] Maximum Subarray
 * [ ] Merge Sorted Array
-* [ ] Move Zeroes
+* [X] Move Zeroes
 * [ ] Rotate Array
 * [ ] Majority Element
 * [X] Valid Anagram
@@ -68,7 +68,7 @@
 
 * [ ] Valid Palindrome
 * [ ] Two Sum II
-* [ ] Move Zeroes
+* [X] Move Zeroes
 * [ ] Remove Duplicates
 * [ ] Container With Most Water
 * [ ] 3Sum
