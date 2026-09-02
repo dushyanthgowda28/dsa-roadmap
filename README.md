@@ -30,7 +30,7 @@
 * [ ] Group Anagrams
 * [ ] Longest Common Prefix
 * [ ] Valid Palindrome
-* [ ] Reverse String
+* [X] Reverse String
 * [ ] Reverse Words in String
 * [ ] Longest Substring Without Repeating Characters
 * [ ] Longest Palindromic Substring
