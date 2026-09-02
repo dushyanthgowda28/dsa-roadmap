@@ -4,7 +4,7 @@ public class LinearSearch {
 
     static int linearSearch(int[] arr, int target) {
         if (arr == null || arr.length == 0) {
-            throw new IllegalArgumentException("Invalid array input");
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         for (int i = 0; i < arr.length; i++) {
@@ -16,7 +16,7 @@ public class LinearSearch {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[] {5, 47, 55, 3, 99, 12, 74};
+        int[] arr = new int[]{5, 47, 55, 3, 99, 12, 74};
         int target = 55;
         int result = linearSearch(arr, target);
         if (result == -1) {

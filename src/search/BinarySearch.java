@@ -4,7 +4,7 @@ public class BinarySearch {
 
     static int binarySearch(int[] arr, int target) {
         if (arr == null || arr.length == 0) {
-            throw new IllegalArgumentException("Invalid array input");
+            throw new IllegalArgumentException("Invalid Array");
         }
         int low = 0, high = arr.length-1, mid;
         while (low <= high) {
