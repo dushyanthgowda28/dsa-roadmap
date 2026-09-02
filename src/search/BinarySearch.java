@@ -6,9 +6,9 @@ public class BinarySearch {
         if (arr == null || arr.length == 0) {
             throw new IllegalArgumentException("Invalid Array");
         }
-        int low = 0, high = arr.length-1, mid;
+        int low = 0, high = arr.length - 1, mid;
         while (low <= high) {
-            mid = low + (high-low)/2;
+            mid = low + (high - low) / 2;
             if (arr[mid] == target) {
                 return mid;
             }
