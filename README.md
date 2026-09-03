@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **13**
-* Remaining: **115**
+* Solved: **14**
+* Remaining: **114**
 
 ---
 
@@ -21,7 +21,7 @@
 * [X] Best Time to Buy and Sell Stock
 * [X] Contains Duplicate
 * [X] Product of Array Except Self
-* [ ] Maximum Subarray
+* [X] Maximum Subarray
 * [ ] Merge Sorted Array
 * [X] Move Zeroes
 * [X] Rotate Array
