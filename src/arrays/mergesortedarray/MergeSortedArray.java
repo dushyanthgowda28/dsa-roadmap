@@ -7,7 +7,7 @@ public class MergeSortedArray {
     static int[] mergeSortedArrays(int[] nums1, int[] nums2) {
 
         if (nums1 == null || nums2 == null) {
-            throw new IllegalArgumentException("Input arrays cannot be null");
+            throw new IllegalArgumentException("Invalid Arrays");
         }
 
         int[] result = new int[nums1.length + nums2.length];

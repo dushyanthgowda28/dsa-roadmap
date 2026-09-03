@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **128**
-* Solved: **14**
-* Remaining: **114**
+* Solved: **15**
+* Remaining: **113**
 
 ---
 
@@ -22,7 +22,7 @@
 * [X] Contains Duplicate
 * [X] Product of Array Except Self
 * [X] Maximum Subarray
-* [ ] Merge Sorted Array
+* [X] Merge Sorted Array
 * [X] Move Zeroes
 * [X] Rotate Array
 * [ ] Majority Element
