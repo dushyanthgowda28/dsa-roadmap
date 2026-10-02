@@ -27,6 +27,7 @@ public class ProductOfArrayExceptSelfBruteForce {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 3, 4};
         int[] result = productOfArrayExceptSelfBruteForce(arr);
+        System.out.println(Arrays.toString(result));
         for (int a : result) {
             System.out.print(a + " ");
         }
