@@ -4,9 +4,9 @@
 
 ## Progress
 
-* Total Questions: **128**
-* Solved: **15**
-* Remaining: **113**
+* Total Questions: **162**
+* Solved: **09**
+* Remaining: **153**
 
 ---
 
@@ -14,170 +14,215 @@
 
 ![DSA Progress](progress.png)
 
-
-# Arrays & Strings (20)
+# Arrays (15)
 
 * [X] Two Sum
-* [X] Best Time to Buy and Sell Stock
 * [X] Contains Duplicate
-* [X] Product of Array Except Self
+* [X] Best Time to Buy and Sell Stock
 * [X] Maximum Subarray
-* [X] Merge Sorted Array
+* [X] Product of Array Except Self
+* [X] Maximum Product Subarray
 * [X] Move Zeroes
-* [X] Rotate Array
+* [ ] Merge Sorted Array
 * [ ] Majority Element
+* [X] Rotate Array
+* [ ] Find the Duplicate Number
+* [ ] Missing Number
+* [ ] Subarray Sum Equals K
+* [ ] Longest Consecutive Sequence
+* [ ] Maximum Subarray Sum with One Deletion
+
+# Strings + Hashing (15)
+
 * [X] Valid Anagram
-* [ ] Group Anagrams
-* [ ] Longest Common Prefix
 * [ ] Valid Palindrome
-* [X] Reverse String
-* [ ] Reverse Words in String
+* [ ] First Unique Character in a String
+* [ ] Ransom Note
+* [ ] Group Anagrams
 * [ ] Longest Substring Without Repeating Characters
 * [ ] Longest Palindromic Substring
-* [ ] 3Sum
-* [ ] Container With Most Water
-* [ ] Trapping Rain Water
-
-# Binary Search (10)
-
-* [X] Binary Search
-* [ ] Search Insert Position
-* [ ] First Bad Version
-* [ ] Search in Rotated Sorted Array
-* [ ] Find Minimum in Rotated Sorted Array
-* [ ] Search 2D Matrix
-* [ ] Find First and Last Position
-* [ ] Peak Element
-* [ ] Koko Eating Bananas
-* [ ] Capacity To Ship Packages
-
-# HashMap / HashSet (10)
-
-* [X] Two Sum
-* [X] Contains Duplicate
-* [X] Valid Anagram
-* [ ] Longest Consecutive Sequence
-* [ ] Top K Frequent Elements
-* [ ] Subarray Sum Equals K
+* [ ] Palindromic Substrings
 * [ ] Isomorphic Strings
 * [ ] Word Pattern
-* [ ] Happy Number
-* [ ] Find Duplicate Number
+* [ ] Longest Common Prefix
+* [ ] String Compression
+* [ ] Encode and Decode Strings
+* [ ] Minimum Window Substring
+* [ ] Find All Anagrams in a String
 
 # Two Pointers (8)
 
-* [ ] Valid Palindrome
 * [ ] Two Sum II
-* [X] Move Zeroes
-* [ ] Remove Duplicates
-* [ ] Container With Most Water
 * [ ] 3Sum
-* [ ] Sort Colors
-* [ ] Squares of Sorted Array
+* [ ] 3Sum Closest
+* [ ] Container With Most Water
+* [ ] Valid Palindrome
+* [ ] Remove Duplicates from Sorted Array
+* [ ] Squares of a Sorted Array
+* [ ] Trapping Rain Water
 
 # Sliding Window (10)
 
+* [ ] Maximum Average Subarray I
+* [ ] Maximum Number of Vowels in a Substring
 * [ ] Longest Substring Without Repeating Characters
+* [ ] Longest Repeating Character Replacement
+* [ ] Permutation in String
 * [ ] Find All Anagrams in a String
 * [ ] Minimum Window Substring
-* [ ] Permutation In String
-* [ ] Sliding Window Maximum
-* [ ] Maximum Average Subarray
+* [ ] Longest Subarray of 1's After Deleting One Element
 * [ ] Fruit Into Baskets
-* [ ] Character Replacement
-* [ ] Max Consecutive Ones III
 * [ ] Minimum Size Subarray Sum
+
+# Binary Search (10)
+
+* [ ] Binary Search
+* [ ] Search Insert Position
+* [ ] First Bad Version
+* [ ] Find First and Last Position
+* [ ] Search in Rotated Sorted Array
+* [ ] Find Minimum in Rotated Sorted Array
+* [ ] Search a 2D Matrix
+* [ ] Koko Eating Bananas
+* [ ] Capacity To Ship Packages Within D Days
+* [ ] Median of Two Sorted Arrays
 
 # Linked List (10)
 
 * [ ] Reverse Linked List
-* [ ] Middle Of Linked List
-* [ ] Linked List Cycle
-* [ ] Palindrome Linked List
 * [ ] Merge Two Sorted Lists
+* [ ] Linked List Cycle
+* [ ] Linked List Cycle II
 * [ ] Remove Nth Node From End
+* [ ] Middle of Linked List
 * [ ] Reorder List
 * [ ] Add Two Numbers
-* [ ] Copy Random Pointer
-* [ ] Intersection Of Linked Lists
+* [ ] Copy List with Random Pointer
+* [ ] Merge k Sorted Lists
 
-# Stack & Queue (8)
+# Stack / Monotonic Stack (10)
 
 * [ ] Valid Parentheses
 * [ ] Min Stack
-* [ ] Daily Temperatures
-* [ ] Next Greater Element
-* [ ] Decode String
 * [ ] Evaluate Reverse Polish Notation
-* [ ] Largest Rectangle Histogram
-* [ ] Generate Parentheses
+* [ ] Daily Temperatures
+* [ ] Next Greater Element I
+* [ ] Next Greater Element II
+* [ ] Largest Rectangle in Histogram
+* [ ] Car Fleet
+* [ ] Simplify Path
+* [ ] Asteroid Collision
 
-# Trees & BST (18)
+# Queue / Deque (5)
 
-* [ ] Maximum Depth
+* [ ] Implement Queue using Stacks
+* [ ] Implement Stack using Queues
+* [ ] Number of Recent Calls
+* [ ] Design Circular Queue
+* [ ] Sliding Window Maximum
+
+# Intervals (8)
+
+* [ ] Merge Intervals
+* [ ] Insert Interval
+* [ ] Non-overlapping Intervals
+* [ ] Meeting Rooms
+* [ ] Meeting Rooms II
+* [ ] Minimum Number of Arrows
+* [ ] Interval List Intersections
+* [ ] Employee Free Time
+
+# Trees / BST (15)
+
+* [ ] Maximum Depth of Binary Tree
 * [ ] Same Tree
 * [ ] Invert Binary Tree
-* [ ] Balanced Binary Tree
-* [ ] Diameter Of Binary Tree
+* [ ] Binary Tree Inorder Traversal
+* [ ] Binary Tree Preorder Traversal
 * [ ] Binary Tree Level Order Traversal
-* [ ] Right Side View
-* [ ] Validate BST
-* [ ] Lowest Common Ancestor
-* [ ] Kth Smallest In BST
+* [ ] Diameter of Binary Tree
+* [ ] Balanced Binary Tree
 * [ ] Path Sum
-* [ ] Symmetric Tree
-* [ ] Construct Tree From Traversals
-* [ ] Serialize Deserialize Tree
-* [ ] Subtree Of Another Tree
-* [ ] Maximum Path Sum
-* [ ] Count Good Nodes
-* [ ] BST Iterator
+* [ ] Lowest Common Ancestor
+* [ ] Validate BST
+* [ ] Kth Smallest Element in BST
+* [ ] Binary Tree Right Side View
+* [ ] Construct Binary Tree
+* [ ] Binary Tree Maximum Path Sum
 
 # Heap / Priority Queue (8)
 
 * [ ] Kth Largest Element
+* [ ] Last Stone Weight
+* [ ] K Closest Points to Origin
 * [ ] Top K Frequent Elements
-* [ ] Merge K Sorted Lists
-* [ ] Median From Data Stream
-* [ ] K Closest Points
-* [ ] Meeting Rooms II
+* [ ] Find Median from Data Stream
+* [ ] Kth Largest Element in a Stream
 * [ ] Task Scheduler
 * [ ] Reorganize String
 
-# Graphs (8)
+# Graphs (15)
 
-* [ ] Number Of Islands
-* [ ] Clone Graph
+* [ ] Number of Islands
 * [ ] Flood Fill
+* [ ] Clone Graph
+* [ ] Max Area of Island
+* [ ] Pacific Atlantic Water Flow
+* [ ] Rotting Oranges
 * [ ] Course Schedule
 * [ ] Course Schedule II
-* [ ] Rotting Oranges
-* [ ] BFS Traversal
-* [ ] DFS Traversal
+* [ ] Connected Components
+* [ ] Graph Valid Tree
+* [ ] Word Ladder
+* [ ] Network Delay Time
+* [ ] Cheapest Flights Within K Stops
+* [ ] Accounts Merge
+* [ ] Redundant Connection
 
-# Dynamic Programming (8)
+# Backtracking (7)
+
+* [ ] Subsets
+* [ ] Subsets II
+* [ ] Permutations
+* [ ] Combination Sum
+* [ ] Combination Sum II
+* [ ] Letter Combinations of Phone Number
+* [ ] Word Search
+
+# Greedy (7)
+
+* [ ] Best Time to Buy and Sell Stock II
+* [ ] Jump Game
+* [ ] Jump Game II
+* [ ] Gas Station
+* [ ] Partition Labels
+* [ ] Assign Cookies
+* [ ] Non-overlapping Intervals
+
+# Dynamic Programming (14)
 
 * [ ] Climbing Stairs
 * [ ] House Robber
 * [ ] House Robber II
 * [ ] Coin Change
+* [ ] Maximum Product Subarray
 * [ ] Longest Increasing Subsequence
 * [ ] Longest Common Subsequence
-* [ ] Unique Paths
 * [ ] Word Break
+* [ ] Partition Equal Subset Sum
+* [ ] Decode Ways
+* [ ] Unique Paths
+* [ ] Combination Sum IV
+* [ ] Edit Distance
+* [ ] Longest Palindromic Subsequence
 
-# Recursion & Backtracking (10)
+# Bit Manipulation (5)
 
-* [ ] Subsets
-* [ ] Permutations
-* [ ] Combination Sum
-* [ ] Letter Combinations of a Phone Number
-* [ ] Palindrome Partitioning
-* [ ] N Queens
-* [ ] Word Search
-* [ ] Generate Parentheses
-* [ ] Combination Sum III
-* [ ] Subsets II
+* [ ] Single Number
+* [ ] Number of 1 Bits
+* [ ] Counting Bits
+* [ ] Reverse Bits
+* [ ] Missing Number
 
 ---
 
@@ -219,3 +264,23 @@
 * [ ] Can explain Time Complexity
 * [ ] Can explain Space Complexity
 * [ ] Can write bug-free Java code
+
+---
+
+## Study Plan & Time Estimates
+
+**Total Time Required: ~190 hrs**
+
+| Activity | Approx. Time |
+| :--- | :--- |
+| First attempt | ~105 hrs |
+| Understanding solutions/hints | ~25 hrs |
+| Re-solving difficult problems | ~25 hrs |
+| Revision | ~20 hrs |
+| Timed interview practice | ~15 hrs |
+
+### Daily Commitments
+
+*   **2 hours/day:** ~3–3.5 months
+*   **3 hours/day:** ~2–2.5 months
+*   **4 hours/day:** ~7–8 weeks
