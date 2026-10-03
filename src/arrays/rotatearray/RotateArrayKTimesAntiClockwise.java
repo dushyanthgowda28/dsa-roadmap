@@ -41,5 +41,5 @@ public class RotateArrayKTimesAntiClockwise {
  * Worst Case  : O(n)
  *
  * Space Complexity:
- * O(n)
+ * O(1)
  */
