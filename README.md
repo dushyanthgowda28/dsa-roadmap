@@ -76,7 +76,7 @@
 
 # Binary Search (10)
 
-* [X] Binary Search
+* [ ] Binary Search
 * [ ] Search Insert Position
 * [ ] First Bad Version
 * [ ] Find First and Last Position
