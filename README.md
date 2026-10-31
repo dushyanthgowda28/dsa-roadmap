@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **162**
-* Solved: **14**
-* Remaining: **148**
+* Solved: **0**
+* Remaining: **162**
 
 ---
 
@@ -16,25 +16,25 @@
 
 # Arrays (15)
 
-* [X] Two Sum
-* [X] Contains Duplicate
-* [X] Best Time to Buy and Sell Stock
-* [X] Maximum Subarray
-* [X] Product of Array Except Self
-* [X] Maximum Product Subarray
-* [X] Move Zeroes
-* [X] Merge Sorted Array
-* [X] Majority Element
-* [X] Rotate Array
-* [X] Find the Duplicate Number
-* [X] Missing Number
+* [ ] Two Sum
+* [ ] Contains Duplicate
+* [ ] Best Time to Buy and Sell Stock
+* [ ] Maximum Subarray
+* [ ] Product of Array Except Self
+* [ ] Maximum Product Subarray
+* [ ] Move Zeroes
+* [ ] Merge Sorted Array
+* [ ] Majority Element
+* [ ] Rotate Array
+* [ ] Find the Duplicate Number
+* [ ] Missing Number
 * [ ] Subarray Sum Equals K
 * [ ] Longest Consecutive Sequence
 * [ ] Maximum Subarray Sum with One Deletion
 
 # Strings + Hashing (15)
 
-* [X] Valid Anagram
+* [ ] Valid Anagram
 * [ ] Valid Palindrome
 * [ ] First Unique Character in a String
 * [ ] Ransom Note
