@@ -35,7 +35,7 @@ public class TwoSum {
 /*
  * Time Complexity:
  * O(n) -> single traversal of the array
- * Each HashMap operation (put, containsKey) is O(1) average case
+ * Each HashMap operation (put, containsKey) is O(1) average case.
  *
  * Space Complexity:
  * O(n) -> worst case all elements are stored in HashMap
