@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **162**
-* Solved: **5**
-* Remaining: **157**
+* Solved: **6**
+* Remaining: **156**
 
 ---
 
@@ -25,7 +25,7 @@
 * [ ] Move Zeroes
 * [ ] Merge Sorted Array
 * [ ] Majority Element
-* [ ] Rotate Array
+* [X] Rotate Array
 * [ ] Find the Duplicate Number
 * [ ] Missing Number
 * [ ] Subarray Sum Equals K
