@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **162**
-* Solved: **2**
-* Remaining: **160**
+* Solved: **3**
+* Remaining: **159**
 
 ---
 
@@ -18,7 +18,7 @@
 
 * [X] Two Sum
 * [X] Contains Duplicate
-* [ ] Best Time to Buy and Sell Stock
+* [X] Best Time to Buy and Sell Stock
 * [ ] Maximum Subarray
 * [ ] Product of Array Except Self
 * [ ] Maximum Product Subarray

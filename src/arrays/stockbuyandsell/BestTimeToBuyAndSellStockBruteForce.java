@@ -18,6 +18,9 @@ public class BestTimeToBuyAndSellStockBruteForce {
         return maxProfit;
     }
 
+
+
+    
     public static void main(String[] args) {
         int[] arr = new int[]{7, 10, 1, 3, 6, 9, 2};
         System.out.println("Maximum profit is " + getMaximumProfit(arr));
