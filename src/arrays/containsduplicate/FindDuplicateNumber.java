@@ -26,9 +26,12 @@ public class FindDuplicateNumber {
 
     public static void main(String[] args) {
 
-        int[] arr = {1, 3, 4, 2, 2};
+        int[] arr = {1, 3, 4, 2, 5, 2};
 
         System.out.println("Duplicate number is: "
                 + findDuplicate(arr));
     }
 }
+
+//Time Complexity - O(1)
+//Space Complexity - O(1)

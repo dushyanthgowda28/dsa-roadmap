@@ -10,11 +10,12 @@ public class ContainsDuplicateBruteForce {
         int len = arr.length;
         int result = -1;
 
+        labelledbreak:
         for (int i = 0; i < len; i++) {
             for (int j = i + 1; j < len; j++) {
                 if (arr[i] == arr[j]) {
                     result = arr[i];
-                    break;
+                    break labelledbreak;
                 }
             }
         }
@@ -23,7 +24,7 @@ public class ContainsDuplicateBruteForce {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[]{1, 4, 5, 7, 8, 4};
+        int[] arr = new int[]{1, 4, 5, 1, 8, 4};
         int result = duplicateElement(arr);
         if (result == -1) {
             System.out.println("Array contains unique elements");
