@@ -1,12 +1,12 @@
 # 🕉️ Sri Yoganarasimha Swamy Prasanna 🦁
 
-# 🚀 DSA Interview Preparation Tracker
+**# 🚀 DSA Interview Preparation Tracker
 
 ## Progress
 
 * Total Questions: **162**
-* Solved: **7**
-* Remaining: **155**
+* Solved: **8**
+* Remaining: **154****
 
 ---
 
@@ -20,7 +20,7 @@
 * [X] Contains Duplicate
 * [X] Best Time to Buy and Sell Stock
 * [X] Maximum Subarray
-* [ ] Product of Array Except Self
+* [X] Product of Array Except Self
 * [ ] Maximum Product Subarray
 * [ ] Move Zeroes
 * [ ] Merge Sorted Array
