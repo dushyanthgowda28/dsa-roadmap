@@ -1,6 +1,6 @@
 # 🕉️ Sri Yoganarasimha Swamy Prasanna 🦁
 
-**# 🚀 DSA Interview Preparation Tracker
+🚀 DSA Interview Preparation Tracker
 
 ## Progress
 
