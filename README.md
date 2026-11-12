@@ -27,7 +27,7 @@
 - [x] Majority Element
 - [x] Rotate Array
 - [x] Find the Duplicate Number
-- [ ] Missing Number
+- [x] Missing Number
 - [ ] Subarray Sum Equals K
 - [ ] Longest Consecutive Sequence
 - [ ] Maximum Subarray Sum with One Deletion
