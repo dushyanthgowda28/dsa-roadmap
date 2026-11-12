@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **12**
-* Remaining: **163**
+* Solved: **13**
+* Remaining: **162**
 
 ---
 
@@ -26,7 +26,7 @@
 - [x] Merge Sorted Array
 - [x] Majority Element
 - [x] Rotate Array
-- [ ] Find the Duplicate Number
+- [x] Find the Duplicate Number
 - [ ] Missing Number
 - [ ] Subarray Sum Equals K
 - [ ] Longest Consecutive Sequence
