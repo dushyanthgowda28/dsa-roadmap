@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **13**
-* Remaining: **162**
+* Solved: **14**
+* Remaining: **161**
 
 ---
 
@@ -28,7 +28,7 @@
 - [x] Rotate Array
 - [x] Find the Duplicate Number
 - [x] Missing Number
-- [ ] Subarray Sum Equals K
+- [x] Subarray Sum Equals K
 - [ ] Longest Consecutive Sequence
 - [ ] Maximum Subarray Sum with One Deletion
 - [ ] Sort Colors
