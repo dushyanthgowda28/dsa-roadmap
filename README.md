@@ -19,7 +19,7 @@
 - [x] Two Sum
 - [x] Contains Duplicate
 - [x] Best Time to Buy and Sell Stock
-- [x] Maximum Subarray
+- [x] Maximum Subarray Sum
 - [x] Product of Array Except Self
 - [x] Maximum Product Subarray
 - [x] Move Zeroes
