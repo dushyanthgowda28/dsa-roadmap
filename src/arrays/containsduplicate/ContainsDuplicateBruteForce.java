@@ -10,12 +10,12 @@ public class ContainsDuplicateBruteForce {
         int len = arr.length;
         int result = -1;
 
-        labelledbreak:
+        labelledBreak:
         for (int i = 0; i < len; i++) {
             for (int j = i + 1; j < len; j++) {
                 if (arr[i] == arr[j]) {
                     result = arr[i];
-                    break labelledbreak;
+                    break labelledBreak;
                 }
             }
         }
