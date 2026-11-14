@@ -29,7 +29,7 @@
 - [x] Find the Duplicate Number
 - [x] Missing Number
 - [x] Subarray Sum Equals K
-- [ ] Longest Consecutive Sequence
+- [x] Longest Consecutive Sequence
 - [ ] Maximum Subarray Sum with One Deletion
 - [ ] Sort Colors
 - [ ] Set Matrix Zeroes
