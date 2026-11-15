@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **19**
-* Remaining: **156**
+* Solved: **20**
+* Remaining: **155**
 
 ---
 
@@ -62,7 +62,7 @@
 - [x] Valid Palindrome
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Squares of a Sorted Array
-- [ ] Trapping Rain Water
+- [x] Trapping Rain Water
 
 # Sliding Window (10)
 
