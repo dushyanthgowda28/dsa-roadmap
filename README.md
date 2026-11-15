@@ -37,8 +37,8 @@
 
 # Strings + Hashing (15)
 
-- [x] Valid Anagram
-- [x] Valid Palindrome
+- [ ] Valid Anagram
+- [ ] Valid Palindrome
 - [ ] First Unique Character in a String
 - [ ] Ransom Note
 - [ ] Group Anagrams
@@ -58,11 +58,11 @@
 - [ ] Two Sum II
 - [ ] 3Sum
 - [ ] 3Sum Closest
-- [x] Container With Most Water
-- [x] Valid Palindrome
+- [ ] Container With Most Water
+- [ ] Valid Palindrome
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Squares of a Sorted Array
-- [x] Trapping Rain Water
+- [ ] Trapping Rain Water
 
 # Sliding Window (10)
 
