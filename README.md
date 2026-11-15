@@ -37,8 +37,8 @@
 
 # Strings + Hashing (15)
 
-- [ ] Valid Anagram
-- [ ] Valid Palindrome
+- [x] Valid Anagram
+- [x] Valid Palindrome
 - [ ] First Unique Character in a String
 - [ ] Ransom Note
 - [ ] Group Anagrams
@@ -58,11 +58,11 @@
 - [ ] Two Sum II
 - [ ] 3Sum
 - [ ] 3Sum Closest
-- [ ] Container With Most Water
-- [ ] Valid Palindrome
+- [x] Container With Most Water
+- [x] Valid Palindrome
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Squares of a Sorted Array
-- [ ] Trapping Rain Water
+- [x] Trapping Rain Water
 
 # Sliding Window (10)
 
@@ -242,19 +242,25 @@
 
 ---
 
-## Revision Tracker
+[//]: # (## Revision Tracker)
 
-### Revision 1
+[//]: # ()
+[//]: # (### Revision 1)
 
-* [ ] Completed
+[//]: # ()
+[//]: # (* [ ] Completed)
 
-### Revision 2
+[//]: # ()
+[//]: # (### Revision 2)
 
-* [ ] Completed
+[//]: # ()
+[//]: # (* [ ] Completed)
 
-### Revision 3
+[//]: # ()
+[//]: # (### Revision 3)
 
-* [ ] Completed
+[//]: # ()
+[//]: # (* [ ] Completed)
 
 ---
 
@@ -262,24 +268,37 @@
 
 ### Common Patterns
 
-* [ ] HashMap
-* [ ] Two Pointers
-* [ ] Sliding Window
-* [ ] Binary Search
-* [ ] Fast & Slow Pointer
-* [ ] BFS
-* [ ] DFS
-* [ ] Backtracking
-* [ ] Heap
-* [ ] Dynamic Programming
+[//]: # (* [ ] HashMap)
+
+[//]: # (* [ ] Two Pointers)
+
+[//]: # (* [ ] Sliding Window)
+
+[//]: # (* [ ] Binary Search)
+
+[//]: # (* [ ] Fast & Slow Pointer)
+
+[//]: # (* [ ] BFS)
+
+[//]: # (* [ ] DFS)
+
+[//]: # (* [ ] Backtracking)
+
+[//]: # (* [ ] Heap)
+
+[//]: # (* [ ] Dynamic Programming)
 
 ### Interview Ready Checklist
 
-* [ ] Can solve Easy in 15 minutes
-* [ ] Can solve Medium in 30 minutes
-* [ ] Can explain Time Complexity
-* [ ] Can explain Space Complexity
-* [ ] Can write bug-free Java code
+[//]: # (* [ ] Can solve Easy in 15 minutes)
+
+[//]: # (* [ ] Can solve Medium in 30 minutes)
+
+[//]: # (* [ ] Can explain Time Complexity)
+
+[//]: # (* [ ] Can explain Space Complexity)
+
+[//]: # (* [ ] Can write bug-free Java code)
 
 ---
 
