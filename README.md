@@ -62,7 +62,7 @@
 - [x] Valid Palindrome
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Squares of a Sorted Array
-- [x] Trapping Rain Water
+- [ ] Trapping Rain Water
 
 # Sliding Window (10)
 
