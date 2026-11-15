@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **21**
-* Remaining: **154**
+* Solved: **22**
+* Remaining: **153**
 
 ---
 
@@ -61,7 +61,7 @@
 - [x] Container With Most Water
 - [x] Valid Palindrome
 - [ ] Remove Duplicates from Sorted Array
-- [ ] Squares of a Sorted Array
+- [x] Squares of a Sorted Array
 - [x] Trapping Rain Water
 
 # Sliding Window (10)
