@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **17**
-* Remaining: **158**
+* Solved: **18**
+* Remaining: **157**
 
 ---
 
@@ -30,7 +30,7 @@
 - [x] Missing Number
 - [x] Subarray Sum Equals K
 - [x] Longest Consecutive Sequence
-- [ ] Maximum Subarray Sum with One Deletion
+- [x] Maximum Subarray Sum with One Deletion
 - [ ] Sort Colors
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
