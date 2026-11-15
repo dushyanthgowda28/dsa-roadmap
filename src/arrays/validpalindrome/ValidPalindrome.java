@@ -15,6 +15,7 @@ public class ValidPalindrome {
                 left++;
             }
 
+
             // Skip non-alphanumeric characters from right
             while (left < right &&
                     !Character.isLetterOrDigit(s.charAt(right))) {
