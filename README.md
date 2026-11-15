@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **18**
-* Remaining: **157**
+* Solved: **19**
+* Remaining: **156**
 
 ---
 
@@ -38,7 +38,7 @@
 # Strings + Hashing (15)
 
 - [x] Valid Anagram
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] First Unique Character in a String
 - [ ] Ransom Note
 - [ ] Group Anagrams
