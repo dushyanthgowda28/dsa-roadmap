@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **26**
-* Remaining: **149**
+* Solved: **27**
+* Remaining: **148**
 
 ---
 
@@ -210,7 +210,7 @@
 
 # Dynamic Programming (16)
 
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Coin Change
