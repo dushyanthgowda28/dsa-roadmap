@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **25**
-* Remaining: **150**
+* Solved: **26**
+* Remaining: **149**
 
 ---
 
@@ -57,7 +57,7 @@
 
 - [x] Two Sum II
 - [x] 3Sum
-- [ ] 3Sum Closest
+- [x] 3Sum Closest
 - [x] Container With Most Water
 - [x] Valid Palindrome
 - [x] Remove Duplicates from Sorted Array
