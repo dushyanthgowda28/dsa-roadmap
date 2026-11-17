@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **22**
-* Remaining: **153**
+* Solved: **23**
+* Remaining: **152**
 
 ---
 
@@ -60,7 +60,7 @@
 - [ ] 3Sum Closest
 - [x] Container With Most Water
 - [x] Valid Palindrome
-- [ ] Remove Duplicates from Sorted Array
+- [x] Remove Duplicates from Sorted Array
 - [x] Squares of a Sorted Array
 - [x] Trapping Rain Water
 
