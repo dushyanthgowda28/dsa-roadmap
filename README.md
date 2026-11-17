@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **24**
-* Remaining: **151**
+* Solved: **25**
+* Remaining: **150**
 
 ---
 
@@ -56,7 +56,7 @@
 # Two Pointers (8)
 
 - [x] Two Sum II
-- [ ] 3Sum
+- [x] 3Sum
 - [ ] 3Sum Closest
 - [x] Container With Most Water
 - [x] Valid Palindrome
