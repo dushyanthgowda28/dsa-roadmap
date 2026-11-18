@@ -1,4 +1,4 @@
-package arrays.anagrams;
+package strings.anagrams;
 
 import java.util.Map;
 import java.util.function.Function;

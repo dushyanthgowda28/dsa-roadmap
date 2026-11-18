@@ -1,4 +1,4 @@
-package arrays.anagrams;
+package strings.anagrams;
 
 import java.util.ArrayList;
 import java.util.Arrays;

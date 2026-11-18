@@ -1,4 +1,4 @@
-package arrays.longestpalindromicsubstring;
+package strings.longestpalindromicsubstring;
 
 public class LongestPalindromicSubString {
 

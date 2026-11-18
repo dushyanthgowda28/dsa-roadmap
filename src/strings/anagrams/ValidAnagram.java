@@ -1,6 +1,4 @@
-package arrays.anagrams;
-
-import java.util.Arrays;
+package strings.anagrams;
 
 public class ValidAnagram {
 
