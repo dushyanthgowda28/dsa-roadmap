@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **28**
-* Remaining: **147**
+* Solved: **29**
+* Remaining: **146**
 
 ---
 
@@ -40,7 +40,7 @@
 - [x] Valid Anagram
 - [x] Valid Palindrome
 - [x] First Unique Character in a String
-- [ ] Ransom Note
+- [x] Ransom Note
 - [ ] Group Anagrams
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Palindromic Substring
