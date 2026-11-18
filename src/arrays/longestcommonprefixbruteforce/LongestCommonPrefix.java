@@ -5,7 +5,7 @@ public class LongestCommonPrefix {
     public static String longestCommonPrefix(String[] strs) {
 
         if (strs == null || strs.length == 0) {
-            return "";
+            throw new IllegalArgumentException("Invalid Array");
         }
 
         String first = strs[0];

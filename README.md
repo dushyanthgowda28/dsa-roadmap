@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **29**
-* Remaining: **146**
+* Solved: **30**
+* Remaining: **145**
 
 ---
 
@@ -47,7 +47,7 @@
 - [ ] Palindromic Substrings
 - [ ] Isomorphic Strings
 - [ ] Word Pattern
-- [ ] Longest Common Prefix
+- [x] Longest Common Prefix
 - [ ] String Compression
 - [ ] Encode and Decode Strings
 - [ ] Minimum Window Substring
