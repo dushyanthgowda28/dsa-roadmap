@@ -1,4 +1,4 @@
-package strings.anagrams.groupanagrams;
+package streams.filter;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
