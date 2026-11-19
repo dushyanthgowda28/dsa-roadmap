@@ -1,4 +1,4 @@
-package arrays.longestsubstringwithoutrepeatingcharacter;
+package strings.longestsubstringwithoutrepeatingcharacter;
 
 public class LongestSubStringWithoutRepeatingCharacterBruteForce {
 
