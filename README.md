@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **32**
-* Remaining: **143**
+* Solved: **33**
+* Remaining: **142**
 
 ---
 
@@ -31,7 +31,7 @@
 - [x] Subarray Sum Equals K
 - [x] Longest Consecutive Sequence
 - [x] Maximum Subarray Sum with One Deletion
-- [ ] Sort Colors
+- [x] Sort Colors
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
 
