@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **30**
-* Remaining: **145**
+* Solved: **31**
+* Remaining: **144**
 
 ---
 
@@ -51,7 +51,7 @@
 - [ ] String Compression
 - [ ] Encode and Decode Strings
 - [ ] Minimum Window Substring
-- [ ] Find All Anagrams in a String
+- [x] Find All Anagrams in a String
 
 # Two Pointers (8)
 
