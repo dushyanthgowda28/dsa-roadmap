@@ -1,4 +1,4 @@
-package arrays.longestcommonprefixbruteforce;
+package strings.longestcommonprefix;
 
 public class LongestCommonPrefix {
 
