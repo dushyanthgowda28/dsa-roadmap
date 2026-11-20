@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **35**
-* Remaining: **140**
+* Solved: **36**
+* Remaining: **139**
 
 ---
 
@@ -44,7 +44,7 @@
 - [x] Group Anagrams
 - [x] Longest Substring Without Repeating Characters
 - [x] Longest Palindromic Substring
-- [ ] Palindromic Substrings
+- [x] Palindromic Substrings
 - [ ] Isomorphic Strings
 - [ ] Word Pattern
 - [x] Longest Common Prefix
