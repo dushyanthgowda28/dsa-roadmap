@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **33**
-* Remaining: **142**
+* Solved: **34**
+* Remaining: **141**
 
 ---
 
@@ -42,7 +42,7 @@
 - [x] First Unique Character in a String
 - [x] Ransom Note
 - [x] Group Anagrams
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Isomorphic Strings
