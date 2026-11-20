@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **36**
-* Remaining: **139**
+* Solved: **37**
+* Remaining: **138**
 
 ---
 
@@ -45,7 +45,7 @@
 - [x] Longest Substring Without Repeating Characters
 - [x] Longest Palindromic Substring
 - [x] Palindromic Substrings
-- [ ] Isomorphic Strings
+- [x] Isomorphic Strings
 - [ ] Word Pattern
 - [x] Longest Common Prefix
 - [ ] String Compression
