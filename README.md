@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **34**
-* Remaining: **141**
+* Solved: **35**
+* Remaining: **140**
 
 ---
 
@@ -43,7 +43,7 @@
 - [x] Ransom Note
 - [x] Group Anagrams
 - [x] Longest Substring Without Repeating Characters
-- [ ] Longest Palindromic Substring
+- [x] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Isomorphic Strings
 - [ ] Word Pattern

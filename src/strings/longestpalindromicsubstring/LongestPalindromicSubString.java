@@ -8,7 +8,7 @@ public class LongestPalindromicSubString {
     static String longestPalindromicSubString(String str) {
 
         if (str == null || str.isEmpty()) {
-            throw new IllegalArgumentException("Invalid string input");
+            throw new IllegalArgumentException("Invalid string");
         }
 
         start = 0;
