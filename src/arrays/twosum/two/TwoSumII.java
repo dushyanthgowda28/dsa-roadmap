@@ -36,3 +36,10 @@ public class TwoSumII {
         System.out.println("Indices: " + Arrays.toString(result));
     }
 }
+
+//Time Complexity
+//O(n)
+//
+//
+//Auxiliary Space Complexity
+//O(1)
