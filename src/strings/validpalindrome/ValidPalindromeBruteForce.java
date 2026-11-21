@@ -1,4 +1,4 @@
-package arrays.validpalindrome;
+package strings.validpalindrome;
 
 public class ValidPalindromeBruteForce {
 
