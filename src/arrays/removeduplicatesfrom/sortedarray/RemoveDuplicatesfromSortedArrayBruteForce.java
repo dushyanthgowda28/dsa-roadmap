@@ -14,8 +14,7 @@ public class RemoveDuplicatesfromSortedArrayBruteForce {
         }
 
         // Put set elements into a result ArrayList
-        ArrayList<Integer> result = new ArrayList<Integer>(st);
-        return result;
+        return new ArrayList<>(st);
     }
 
     public static void main(String[] args) {
