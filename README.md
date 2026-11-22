@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **42**
-* Remaining: **133**
+* Solved: **43**
+* Remaining: **132**
 
 ---
 
@@ -32,7 +32,7 @@
 - [x] Longest Consecutive Sequence
 - [x] Maximum Subarray Sum with One Deletion
 - [x] Sort Colors
-- [ ] Set Matrix Zeroes
+- [x] Set Matrix Zeroes
 - [x] Spiral Matrix
 
 # Strings + Hashing (15)
