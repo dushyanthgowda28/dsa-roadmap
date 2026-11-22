@@ -48,9 +48,9 @@
 - [x] Isomorphic Strings
 - [x] Word Pattern
 - [x] Longest Common Prefix
-- [ ] String Compression
+- [x] String Compression
 - [ ] Encode and Decode Strings
-- [x] Minimum Window Substring
+- [ ] Minimum Window Substring
 - [x] Find All Anagrams in a String
 
 # Two Pointers (8)
