@@ -11,7 +11,7 @@ plt.figure(figsize=(6,6))
 plt.pie(
     [completed, remaining],
     labels=["Solved", "Remaining"],
-    colors=["yellow", "red"],   # Green for solved, Red for remaining
+    colors=["white", "black"],   # Green for solved, Red for remaining
     autopct="%1.1f%%",
     startangle=90              # Optional: starts chart from the top
 )
