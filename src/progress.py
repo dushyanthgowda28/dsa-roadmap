@@ -13,7 +13,11 @@ plt.pie(
     labels=["Solved", "Remaining"],
     colors=["white", "black"],   # Green for solved, Red for remaining
     autopct="%1.1f%%",
-    startangle=90              # Optional: starts chart from the top
+    startangle=90,
+    wedgeprops={
+            "edgecolor": "black",
+            "linewidth": 2
+        }# Optional: starts chart from the top
 )
 
 plt.title("DSA Progress")
