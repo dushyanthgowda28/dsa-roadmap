@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **39**
-* Remaining: **136**
+* Solved: **40**
+* Remaining: **135**
 
 ---
 
@@ -49,7 +49,7 @@
 - [x] Word Pattern
 - [x] Longest Common Prefix
 - [x] String Compression
-- [ ] Encode and Decode Strings
+- [x] Encode and Decode Strings
 - [ ] Minimum Window Substring
 - [x] Find All Anagrams in a String
 
