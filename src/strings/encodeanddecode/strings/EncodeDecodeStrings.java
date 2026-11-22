@@ -74,3 +74,11 @@ public class EncodeDecodeStrings {
     }
 }
 
+
+//For Encode and Decode Strings (LeetCode 271), let:
+//        - N = Total number of characters across all input strings.
+//        - K = Number of strings in the input list.
+//Time and Space Complexity
+//Operation	Time Complexity	Auxiliary Space
+//Encode	O(N + K)	O(N + K)
+//Decode	O(N + K)	O(N + K)
