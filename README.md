@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **41**
-* Remaining: **134**
+* Solved: **42**
+* Remaining: **133**
 
 ---
 
@@ -33,7 +33,7 @@
 - [x] Maximum Subarray Sum with One Deletion
 - [x] Sort Colors
 - [ ] Set Matrix Zeroes
-- [ ] Spiral Matrix
+- [x] Spiral Matrix
 
 # Strings + Hashing (15)
 
