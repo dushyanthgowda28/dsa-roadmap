@@ -68,3 +68,6 @@ public class ThreeSum {
         System.out.println(result);
     }
 }
+
+//Overall time	O(n²)
+//Auxiliary space	O(1)
