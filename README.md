@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **44**
-* Remaining: **131**
+* Solved: **45**
+* Remaining: **130**
 
 ---
 
@@ -67,7 +67,7 @@
 # Sliding Window (10)
 
 - [x] Maximum Average Subarray I
-- [ ] Maximum Number of Vowels in a Substring
+- [x] Maximum Number of Vowels in a Substring
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
