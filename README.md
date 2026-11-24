@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **47**
-* Remaining: **128**
+* Solved: **48**
+* Remaining: **127**
 
 ---
 
@@ -70,7 +70,7 @@
 - [x] Maximum Number of Vowels in a Substring
 - [x] Longest Substring Without Repeating Characters
 - [x] Longest Repeating Character Replacement
-- [ ] Permutation in String
+- [x] Permutation in String
 - [ ] Find All Anagrams in a String
 - [ ] Minimum Window Substring
 - [ ] Longest Subarray of 1's After Deleting One Element
