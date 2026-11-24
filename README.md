@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **48**
-* Remaining: **127**
+* Solved: **50**
+* Remaining: **125**
 
 ---
 
@@ -71,8 +71,8 @@
 - [x] Longest Substring Without Repeating Characters
 - [x] Longest Repeating Character Replacement
 - [x] Permutation in String
-- [ ] Find All Anagrams in a String
-- [ ] Minimum Window Substring
+- [x] Find All Anagrams in a String
+- [x] Minimum Window Substring
 - [ ] Longest Subarray of 1's After Deleting One Element
 - [ ] Fruit Into Baskets
 - [ ] Minimum Size Subarray Sum
