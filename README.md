@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **46**
-* Remaining: **129**
+* Solved: **47**
+* Remaining: **128**
 
 ---
 
@@ -69,7 +69,7 @@
 - [x] Maximum Average Subarray I
 - [x] Maximum Number of Vowels in a Substring
 - [x] Longest Substring Without Repeating Characters
-- [ ] Longest Repeating Character Replacement
+- [x] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Find All Anagrams in a String
 - [ ] Minimum Window Substring
