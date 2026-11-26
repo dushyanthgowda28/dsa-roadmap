@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **55**
-* Remaining: **120**
+* Solved: **56**
+* Remaining: **119**
 
 ---
 
@@ -73,6 +73,7 @@
 - [x] Permutation in String
 - [x] Find All Anagrams in a String
 - [x] Minimum Window Substring
+- 
 - [x] Longest Subarray of 1's After Deleting One Element
 - [x] Fruit Into Baskets
 - [x] Minimum Size Subarray Sum
@@ -82,7 +83,7 @@
 - [x] Binary Search
 - [x] Search Insert Position
 - [x] First Bad Version
-- [ ] Find First and Last Position
+- [x] Find First and Last Position
 - [ ] Search in Rotated Sorted Array
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search a 2D Matrix
