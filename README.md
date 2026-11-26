@@ -75,7 +75,7 @@
 - [x] Minimum Window Substring
 - [ ] Longest Subarray of 1's After Deleting One Element
 - [ ] Fruit Into Baskets
-- [ ] Minimum Size Subarray Sum
+- [x] Minimum Size Subarray Sum
 
 # Binary Search (10)
 
