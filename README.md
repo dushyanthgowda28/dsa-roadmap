@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **51**
-* Remaining: **124**
+* Solved: **52**
+* Remaining: **123**
 
 ---
 
@@ -74,7 +74,7 @@
 - [x] Find All Anagrams in a String
 - [x] Minimum Window Substring
 - [ ] Longest Subarray of 1's After Deleting One Element
-- [ ] Fruit Into Baskets
+- [x] Fruit Into Baskets
 - [x] Minimum Size Subarray Sum
 
 # Binary Search (10)
