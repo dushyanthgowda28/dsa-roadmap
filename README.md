@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **53**
-* Remaining: **122**
+* Solved: **54**
+* Remaining: **121**
 
 ---
 
@@ -80,7 +80,7 @@
 # Binary Search (10)
 
 - [x] Binary Search
-- [ ] Search Insert Position
+- [x] Search Insert Position
 - [ ] First Bad Version
 - [ ] Find First and Last Position
 - [ ] Search in Rotated Sorted Array
