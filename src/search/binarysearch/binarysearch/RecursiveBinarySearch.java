@@ -1,4 +1,4 @@
-package search;
+package search.binarysearch.binarysearch;
 
 public class RecursiveBinarySearch {
 
