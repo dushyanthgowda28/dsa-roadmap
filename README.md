@@ -5,8 +5,8 @@
 ## Progress
 
 * Total Questions: **175**
-* Solved: **52**
-* Remaining: **123**
+* Solved: **53**
+* Remaining: **122**
 
 ---
 
@@ -73,7 +73,7 @@
 - [x] Permutation in String
 - [x] Find All Anagrams in a String
 - [x] Minimum Window Substring
-- [ ] Longest Subarray of 1's After Deleting One Element
+- [x] Longest Subarray of 1's After Deleting One Element
 - [x] Fruit Into Baskets
 - [x] Minimum Size Subarray Sum
 
