@@ -48,4 +48,4 @@ public class FruitIntoBaskets {
 }
 
 //Time	O(n)
-//Space	O(n) (can also be O(1) because hasmap stores max of 3)
+//Space	O(n) (can also be O(1) because hashmap stores max of 3)
