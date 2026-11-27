@@ -1,4 +1,4 @@
-package strings.anagrams;
+package arrays.slidingwindow.findallanagrams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
