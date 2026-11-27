@@ -36,3 +36,6 @@ public class MinimumSizeSubarraySum {
         System.out.println("Minimum Size Subarray Sum "+minSubArrayLen(target, nums));
     }
 }
+
+//Time - O(n)
+//Space - O(1)
