@@ -1,4 +1,4 @@
-package arrays.longestonesafterdeletion;
+package arrays.slidingwindow.longestonesafterdeletion;
 
 public class LongestOnesAfterDeletion {
 
