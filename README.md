@@ -73,7 +73,6 @@
 - [x] Permutation in String
 - [x] Find All Anagrams in a String
 - [x] Minimum Window Substring
-- 
 - [x] Longest Subarray of 1's After Deleting One Element
 - [x] Fruit Into Baskets
 - [x] Minimum Size Subarray Sum

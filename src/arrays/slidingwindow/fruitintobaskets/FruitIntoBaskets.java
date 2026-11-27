@@ -1,4 +1,4 @@
-package arrays.fruitintobaskets;
+package arrays.slidingwindow.fruitintobaskets;
 
 import java.util.HashMap;
 import java.util.Map;
