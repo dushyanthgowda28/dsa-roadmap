@@ -1,4 +1,4 @@
-package strings.minimumsum.subarraysum;
+package arrays.slidingwindow.subarraysum;
 
 public class MinimumSizeSubarraySum {
 
