@@ -1,4 +1,4 @@
-package arrays.maximumsubarrayaverage1;
+package arrays.slidingwindow.maximumsubarrayaverage1;
 
 public class MaximumAverageSubarray {
 
@@ -34,7 +34,7 @@ public class MaximumAverageSubarray {
         int[] arr = {1, 12, -5, -6, 50, 3};
         int k = 4;
 
-        System.out.printf("Maximum Subarray Average %.5f%n",
+        System.out.printf("Maximum Subarray Average %.5f",
                 getMaximumSubarrayAverage(arr, k));
     }
 }

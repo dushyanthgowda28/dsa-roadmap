@@ -1,4 +1,4 @@
-package arrays.maximumsubarrayaverage1;
+package arrays.slidingwindow.maximumsubarrayaverage1;
 
 public class MaximumAverageSubarrayBruteForce {
 
