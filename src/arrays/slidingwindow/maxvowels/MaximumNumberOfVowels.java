@@ -1,5 +1,4 @@
-
-package strings.maxvowels;
+package arrays.slidingwindow.maxvowels;
 
 public class MaximumNumberOfVowels {
 
