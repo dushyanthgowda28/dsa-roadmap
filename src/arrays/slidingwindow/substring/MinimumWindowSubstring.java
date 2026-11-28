@@ -1,4 +1,4 @@
-package strings.minimumwindow.substring;
+package arrays.slidingwindow.substring;
 
 
 public class MinimumWindowSubstring {
