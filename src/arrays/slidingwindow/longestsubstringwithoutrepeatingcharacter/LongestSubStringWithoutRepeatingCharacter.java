@@ -1,4 +1,4 @@
-package strings.longestsubstringwithoutrepeatingcharacter;
+package arrays.slidingwindow.longestsubstringwithoutrepeatingcharacter;
 
 import java.util.HashMap;
 import java.util.Map;

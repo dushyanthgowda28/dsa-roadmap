@@ -1,4 +1,4 @@
-package strings.longestsubstringwithoutrepeatingcharacter;
+package arrays.slidingwindow.longestsubstringwithoutrepeatingcharacter;
 
 public class LongestSubStringWithoutRepeatingCharacterBruteForce {
 
@@ -32,13 +32,13 @@ public class LongestSubStringWithoutRepeatingCharacterBruteForce {
             char ch = str.charAt(i);
 
             if (visited[ch]) {
-                return false;
+                return Boolean.FALSE;
             }
 
-            visited[ch] = true;
+            visited[ch] = Boolean.TRUE;
         }
 
-        return true;
+        return Boolean.TRUE;
     }
 
     public static void main(String[] args) {
