@@ -1,4 +1,4 @@
-package strings.longestrepeatingcharacterreplacement;
+package arrays.slidingwindow.longestrepeatingcharacterreplacement;
 
 public class LongestRepeatingCharacterReplacement {
 

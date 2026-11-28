@@ -1,4 +1,4 @@
-package strings.permutationinstrings;
+package arrays.slidingwindow.permutationinstrings;
 
 public class PermutationInString {
 
