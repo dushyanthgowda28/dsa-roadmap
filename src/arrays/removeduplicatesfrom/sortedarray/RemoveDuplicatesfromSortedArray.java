@@ -26,4 +26,4 @@ public class RemoveDuplicatesfromSortedArray {
     }
 }
 
-// Single Traversal - O(n) Time and O(1) Space
+// Single Traversal - O(n) Time and O(n) Space
